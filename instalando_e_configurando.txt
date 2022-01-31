@@ -1,0 +1,4 @@
+to install just search on google install github
+important commands
+git config --global user.name "Fulano de tal"
+git config --global user.email "kkk@kkk.com"
