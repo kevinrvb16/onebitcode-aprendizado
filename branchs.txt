@@ -1,0 +1,6 @@
+I learned how to create a new branck and do changes on this brnach qith the command:
+'git checkout -b nomedabranch'
+git checkout makes you to change to an other branch.
+the command:
+git branch
+shows all the branchs
